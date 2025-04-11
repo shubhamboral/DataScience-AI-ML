@@ -1,0 +1,526 @@
+Customer_ID,Name,Age,Gender,Region,Purchase_Date,Product_Category,Total_Spending
+9a61b402,Adam White,56,Female,North,2023-01-01,Electronics,624.71
+26468574,Brian Ball,69,Female,South,2023-01-02,Electronics,352.21
+4ed7e828,Tracy Lozano,46,Female,East,2023-01-03,Electronics,873.12
+0703ab7a,Angela Browning,32,Female,South,2023-01-04,Books,993.67
+9b81f7ec,Lauren Martinez,60,Male,South,2023-01-05,Books,764.81
+9c215e10,Julie Castro,25,Male,East,2023-01-06,Grocery,135.96
+71786ba4,Steven Alvarez,38,Male,South,2023-01-07,Clothing,324.25
+afcbe77b,Jody Wheeler,56,Female,East,2023-01-08,Home Decor,153.65
+0e5184ff,Meghan Pierce,36,Male,South,2023-01-09,Home Decor,667.99
+85ce3eff,Caleb Shaw,40,Male,East,2023-01-10,Home Decor,776.93
+128eafdf,Leslie James,28,Male,North,2023-01-11,Grocery,929.39
+b2a03608,Kristin Lynn,28,Male,West,2023-01-12,Books,466.26
+2f065fcd,Chad West,41,Female,East,2023-01-13,Grocery,
+13b6efa9,Melanie Kidd,53,Female,East,2023-01-14,Home Decor,884.0
+fd2198ad,Douglas Turner,57,Male,West,2023-01-15,Clothing,351.34
+db1781ca,Jason Mendoza,41,Male,East,2023-01-16,Electronics,875.46
+bd03bfc4,Connie Smith DDS,20,Female,East,2023-01-17,Books,406.89
+0cdb98df,Paul Miranda,39,Male,South,2023-01-18,Books,332.03
+295a094b,Michael Wong,19,Male,West,2023-01-19,Grocery,666.62
+f3524c17,Lisa Morris,41,Male,North,2023-01-20,Books,361.96
+ab820a2b,Susan Hampton,61,Male,East,2023-01-21,Home Decor,648.7
+85df8609,Sarah Frank,47,Female,West,2023-01-22,Home Decor,629.34
+31707e21,Michael Jones,55,Female,South,2023-01-23,Grocery,585.27
+cbc90d94,Brenda Gallagher MD,19,Male,North,2023-01-24,Home Decor,411.4
+ebd568f7,Patrick King,38,Male,West,2023-01-25,Clothing,571.07
+3dcf8e26,Judith Moody MD,50,Female,North,2023-01-26,Grocery,616.66
+3df8a8ca,Jordan Henry,29,Female,North,2023-01-27,Clothing,568.4
+dce176c8,Vicki Alvarez,39,Female,North,2023-01-28,Electronics,472.2
+ba5a7ebf,William Mcdaniel,61,Female,East,2023-01-29,Clothing,63.93
+61ce2310,Jennifer Hardy,42,Male,East,2023-01-30,Electronics,607.71
+813bec8f,Brenda Pennington DDS,66,Male,South,2023-01-31,Electronics,210.02
+3e94628a,Mr. Christopher Pugh,44,Female,South,2023-02-01,Clothing,660.45
+275e5dca,Sarah Rodriguez,59,Male,West,2023-02-02,Grocery,771.38
+fb4d13ed,Todd Henry,45,Female,South,2023-02-03,Home Decor,525.42
+063250b3,Christine Benson,33,Female,North,2023-02-04,Home Decor,565.25
+6982d752,Michele Gregory,32,Female,North,2023-02-05,Electronics,953.9
+c1e07298,Angela Bowman,64,Male,East,2023-02-06,Electronics,
+5cde4a23,Dana Wilson,68,Female,North,2023-02-07,Grocery,918.52
+6d6ef9b5,Emily Jimenez,61,Male,West,2023-02-08,Books,823.08
+3f63e96e,Crystal Travis,69,Female,North,2023-02-09,Clothing,153.47
+c4c5e860,Pamela Vargas,20,Female,North,2023-02-10,Electronics,191.54
+ee9f956d,Travis Hernandez,54,Male,West,2023-02-11,Home Decor,550.29
+54f79377,Amanda Simmons,68,Other,South,2023-02-12,Grocery,283.77
+ceb2b4df,Meagan Meadows,24,Female,South,2023-02-13,Clothing,502.86
+2bb0950b,Michael Estes,38,Male,West,2023-02-14,Grocery,424.65
+86eb43f8,Samantha Johnson,26,Male,East,2023-02-15,Clothing,571.94
+665698b3,Mr. Joseph Edwards MD,56,Male,North,2023-02-16,Clothing,759.53
+c99858ed,Dawn Baker,35,Male,West,2023-02-17,Electronics,729.72
+9e5fc3f6,Donald Wright,21,Male,North,2023-02-18,Grocery,545.17
+aadfa3af,Danielle Zimmerman,42,Female,East,2023-02-19,Grocery,831.27
+d231e36a,Wendy Chandler,31,Male,North,2023-02-20,Home Decor,459.32
+3a023b65,Stacy Cole,67,Male,West,2023-02-21,Home Decor,901.88
+355e5c48,John Williams,26,Female,North,2023-02-22,Electronics,117.72
+7a74ee1d,Albert Fitzgerald,43,Male,South,2023-02-23,Electronics,956.93
+39f789d2,David Klein,19,Female,East,2023-02-24,Books,671.96
+84a67370,Shawn Sullivan,37,Male,East,2023-02-25,Home Decor,411.07
+17929092,Keith Clark,45,Male,East,2023-02-26,Clothing,237.3
+e5201f4c,Sara Edwards,64,Female,West,2023-02-27,Grocery,505.22
+fb02c08d,Ashley Miller,24,Female,East,2023-02-28,Electronics,234.83
+bb02bbee,Deborah Cooper,61,Female,South,2023-03-01,Grocery,208.02
+49537005,Melissa Bryant,25,Female,West,2023-03-02,Grocery,636.48
+54106425,Michael Cooper,64,Female,South,2023-03-03,Books,546.93
+3f81e7f6,Melissa Jones,52,Male,North,2023-03-04,Home Decor,686.59
+21d0b9eb,Ryan Rice,31,Male,North,2023-03-05,Electronics,933.13
+4637bf8b,Rachel Hayes,34,Female,North,2023-03-06,Grocery,555.65
+79410238,Christopher Allen,53,Female,North,2023-03-07,Electronics,601.89
+f4155ca8,Andrew Moore,67,Other,South,2023-03-08,Clothing,135.15
+5117d51f,Jason Austin,57,Male,West,2023-03-09,Books,731.75
+29dd1223,Angela Vasquez,21,Male,West,2023-03-10,Clothing,429.91
+35048569,Jessica Lopez,19,Female,East,2023-03-11,Electronics,977.89
+cb1927c2,Karen Morgan,23,Male,South,2023-03-12,Electronics,832.02
+5acc0cf2,Natalie Parker,59,Female,North,2023-03-13,Home Decor,546.36
+da5d89b4,John Jackson,21,Female,South,2023-03-14,Grocery,167.06
+15a33464,Ryan Steele,46,Male,East,2023-03-15,Grocery,866.45
+77266995,Steven Walters,35,Female,East,2023-03-16,Clothing,809.79
+0357219c,Stacey Palmer,43,Female,South,2023-03-17,Books,225.36
+78546c8b,David Hicks,61,Male,South,2023-03-18,Grocery,330.51
+ec44146d,Kimberly Russell,51,Female,South,2023-03-19,Home Decor,803.74
+2a00eb93,Savannah Sharp,27,Female,West,2023-03-20,Clothing,225.97
+b550ed87,Ms. Whitney Green,53,Female,North,2023-03-21,Clothing,921.86
+9cb7d971,Matthew Kramer MD,31,Male,South,2023-03-22,Home Decor,453.3
+41efde6b,Mary Rivera,48,Female,South,2023-03-23,Books,132.69
+3f3a6e51,Erin Jones,65,Male,South,2023-03-24,Home Decor,824.96
+50a4cd9c,Pamela Neal,32,Male,East,2023-03-25,Books,404.83
+bdaa7fd7,Craig Burns,25,Female,East,2023-03-26,Home Decor,550.17
+40f2bb95,Julia Hammond,31,Male,West,2023-03-27,Home Decor,156.69
+8282f68d,Terri Rice,40,Male,North,2023-03-28,Electronics,52.45
+07ce41aa,Dr. Kelly Morrison,57,Female,West,2023-03-29,Clothing,656.09
+544c26eb,Jill Mcdonald,38,Female,North,2023-03-30,Home Decor,539.42
+0373d7c7,Carol Powell,33,Female,East,2023-03-31,Home Decor,613.86
+774ec970,Rebecca Gibson,62,Female,East,2023-04-01,Grocery,804.06
+3478d18a,Cynthia Dougherty,35,Male,East,2023-04-02,Clothing,664.28
+edb5da9c,Emily Clayton,64,Male,West,2023-04-03,Grocery,216.03
+b15e1b3c,Jeffrey Hunt,41,Male,South,2023-04-04,Clothing,392.73
+cd4f24ff,Steven Harris,43,Female,South,2023-04-05,Grocery,910.6
+59241f19,Shannon Stafford,42,Female,East,2023-04-06,Home Decor,
+4871e2e0,Megan Zavala,62,Female,South,2023-04-07,Home Decor,578.81
+c52f0b02,Andrea Wilson,58,Female,South,2023-04-08,Electronics,292.86
+e8338e55,Nathan Stewart,46,Male,West,2023-04-09,Grocery,336.96
+7a3fc6ca,David Freeman,32,Female,North,2023-04-10,Books,745.36
+4460c2e6,Mrs. Amanda Montoya,62,Male,East,2023-04-11,Electronics,858.62
+6a1d3301,Kaitlin White,18,Female,East,2023-04-12,Grocery,687.85
+ec328a48,Adam Parsons,42,Male,West,2023-04-13,Grocery,819.05
+4fa99b8b,Monica Scott,24,Female,West,2023-04-14,Electronics,778.32
+b3c669bd,Tracey Moore,26,Male,South,2023-04-15,Home Decor,192.22
+e98b06e2,Christina Coleman,41,Male,East,2023-04-16,Grocery,452.75
+85bc6370,Terry Daniels,18,Male,North,2023-04-17,Home Decor,195.33
+8833f3dc,Christopher Abbott,61,Female,West,2023-04-18,Electronics,273.47
+98f7b50a,Alex Randolph Jr.,25,Female,North,2023-04-19,Home Decor,875.8
+2b7030c8,Leslie Copeland,41,Male,North,2023-04-20,Clothing,499.25
+87f55001,Gina Graves,28,Male,East,2023-04-21,Books,558.59
+6b53050a,Julian Hull,68,Female,East,2023-04-22,Grocery,219.52
+ec018aaa,William Miller,34,Male,West,2023-04-23,Books,346.66
+d82f66d6,Katie Parker,25,Female,East,2023-04-24,Home Decor,268.73
+e7ace049,Karen Frost,52,Female,East,2023-04-25,Grocery,245.88
+98a1948c,Alexa Marsh,52,Male,East,2023-04-26,Home Decor,656.06
+a541d95d,Adam Dawson,50,Male,North,2023-04-27,Clothing,294.04
+3c66cf7b,Martin Thompson,22,Other,West,2023-04-28,Electronics,650.41
+2dba337e,Craig Jackson,59,Male,South,2023-04-29,Grocery,105.53
+59b811dc,Frederick Shah,56,Male,North,2023-04-30,Clothing,184.69
+21c7c77b,Mitchell Mercado,58,Female,East,2023-05-01,Clothing,310.81
+756eaf35,Meredith Rodriguez,45,Female,North,2023-05-02,Grocery,
+e2553c4e,Roger Douglas,24,Other,East,2023-05-03,Home Decor,
+ae439636,Michael Blair,26,Female,East,2023-05-04,Clothing,470.58
+e2cb3b4c,George Acosta,25,Male,North,2023-05-05,Books,473.5
+637d2abd,Kayla Johnson,29,Male,West,2023-05-06,Clothing,738.29
+46d5d68c,Douglas Patrick,51,Female,East,2023-05-07,Home Decor,65.03
+5d739cdb,Jacob Gordon Jr.,50,Female,West,2023-05-08,Home Decor,374.04
+8a4e26a5,Christina Stone,65,Male,South,2023-05-09,Books,827.77
+4da40399,Christian Morales,40,Female,East,2023-05-10,Clothing,623.06
+f1b1b5e3,Jessica Deleon,41,Male,West,2023-05-11,Home Decor,370.37
+5c87875c,Edward Baker,54,Female,West,2023-05-12,Grocery,910.25
+ef3f769d,Mrs. Jessica Thomas,52,Male,South,2023-05-13,Electronics,783.99
+58805385,Tammy Daniels,61,Male,West,2023-05-14,Electronics,301.65
+6615bc9b,Karen Craig,57,Male,West,2023-05-15,Electronics,663.03
+733266e4,Kathryn Fernandez,39,Male,South,2023-05-16,Clothing,615.96
+9fe9cd6d,Linda Blake,44,Male,East,2023-05-17,Books,431.13
+3a04d173,Matthew Rodriguez,52,Female,West,2023-05-18,Home Decor,398.61
+7e902218,Keith Kane,18,Female,West,2023-05-19,Grocery,376.38
+deb2cf20,Laura Little,52,Female,West,2023-05-20,Grocery,636.3
+778dbd1a,Alexander Harris,54,Other,North,2023-05-21,Clothing,470.29
+dda16d30,Juan Estrada,64,Male,South,2023-05-22,Electronics,840.27
+d87f6809,Daniel Taylor,31,Male,North,2023-05-23,Clothing,686.12
+a6cb5017,Patrick Valdez,20,Female,South,2023-05-24,Books,116.44
+d528e51d,Ian Gaines,18,Male,East,2023-05-25,Books,658.16
+5e1e1232,Amanda Grant,22,Other,East,2023-05-26,Home Decor,307.59
+b40c283a,Sabrina Becker,43,Male,West,2023-05-27,Home Decor,613.17
+c10a97d1,Mark Krause,31,Other,South,2023-05-28,Books,696.13
+b6e212ca,Kelly Estrada,56,Male,East,2023-05-29,Books,
+d0e068c9,Denise Dalton,44,Female,South,2023-05-30,Books,484.02
+859e94b3,Brian Leonard,26,Female,East,2023-05-31,Clothing,230.81
+0320468d,Jennifer Sutton,32,Other,North,2023-06-01,Books,99.72
+e9b3e4e5,Brandy Dudley,32,Male,East,2023-06-02,Grocery,409.55
+67dadab9,Samantha Robinson,43,Female,North,2023-06-03,Electronics,394.8
+d966c07e,Maria Sanchez,59,Other,East,2023-06-04,Books,
+f80eb20a,George Brown,30,Female,West,2023-06-05,Electronics,474.03
+1a301749,Noah Gutierrez,68,Female,North,2023-06-06,Clothing,366.89
+a0867559,Tony Smith,49,Female,East,2023-06-07,Electronics,601.45
+8a77b760,Ashlee Clark,56,Male,West,2023-06-08,Clothing,134.33
+11f3ba3d,Brittany Davis,66,Female,North,2023-06-09,Grocery,963.58
+a526b949,Joshua May,69,Female,West,2023-06-10,Clothing,653.21
+2f9b9409,Elaine Phillips,49,Female,South,2023-06-11,Clothing,767.1
+ad95a784,Mary Goodman,21,Male,South,2023-06-12,Home Decor,211.95
+2979643a,Samantha Ramirez,47,Male,North,2023-06-13,Books,439.0
+8cc689e9,Rachel White,54,Female,East,2023-06-14,Books,451.55
+ccfcc43c,Kathleen Nelson,40,Female,North,2023-06-15,Grocery,830.72
+fd9aed18,Tara Knox,56,Male,West,2023-06-16,Grocery,51.17
+1656588c,William Martin,62,Female,East,2023-06-17,Books,335.81
+3aed0ccf,Jennifer Thompson,32,Male,South,2023-06-18,Home Decor,982.17
+5763fd5a,Marco Perry,60,Male,East,2023-06-19,Books,501.14
+dd5c78d2,Elizabeth Smith MD,46,Male,South,2023-06-20,Home Decor,413.4
+84a9274d,Susan Brown,53,Male,East,2023-06-21,Grocery,163.84
+f58a673e,Steven Cooper,30,Female,East,2023-06-22,Electronics,975.46
+a454b7ad,David Williams PhD,49,Male,East,2023-06-23,Grocery,69.03
+6faa3489,Daniel Larson,24,Other,West,2023-06-24,Grocery,750.32
+5c1a1d33,Anna Wilcox,68,Other,West,2023-06-25,Clothing,780.17
+2b40c1f0,Christopher Maddox,39,Female,North,2023-06-26,Clothing,281.47
+de90d490,Jason Drake,45,Female,North,2023-06-27,Clothing,687.98
+51e23f8c,William Collins,19,Male,South,2023-06-28,Clothing,138.28
+f6d3b33b,Jacob Wiley,59,Female,West,2023-06-29,Home Decor,294.19
+d37eee04,Elizabeth Hoover,62,Female,South,2023-06-30,Books,798.51
+9a865af1,James Morton,23,Male,North,2023-07-01,Electronics,871.45
+fe1c787b,John Butler,45,Female,South,2023-07-02,Grocery,628.06
+0fe88a1a,Juan Morgan,45,Female,North,2023-07-03,Home Decor,531.5
+48dbb693,Randy Stevens,61,Female,West,2023-07-04,Electronics,201.34
+64e56639,Phillip Hayes,61,Female,East,2023-07-05,Home Decor,109.95
+6fadf408,Angela Stewart,37,Female,West,2023-07-06,Home Decor,161.77
+3b01a86f,Christopher Williams,47,Male,South,2023-07-07,Grocery,265.99
+a62bcdbd,Jessica Long,28,Female,South,2023-07-08,Books,374.59
+8461417c,Natalie Garcia,45,Female,West,2023-07-09,Clothing,411.86
+44f3fc32,Paula Kane,42,Male,West,2023-07-10,Books,379.01
+b375cce5,James Davis,56,Male,North,2023-07-11,Grocery,277.1
+7e26145b,Nicholas Ramirez,50,Male,South,2023-07-12,Grocery,534.24
+e99e42f6,Paul Meyer,18,Female,South,2023-07-13,Grocery,834.02
+407ccadd,Andrew Lawrence,44,Other,West,2023-07-14,Electronics,315.72
+9b3be3e7,Lindsay Mullins,69,Male,East,2023-07-15,Books,945.27
+85efa4b1,Donald Nelson,30,Female,South,2023-07-16,Books,879.67
+c6129353,Cameron Rodriguez,58,Male,East,2023-07-17,Home Decor,203.68
+b1f997cf,Jennifer Little,20,Other,West,2023-07-18,Home Decor,796.96
+51ab55cf,Robert Stark,56,Female,West,2023-07-19,Home Decor,595.86
+458044e7,Lawrence Gonzales,23,Female,North,2023-07-20,Grocery,588.25
+181a2690,Andrea Jenkins,25,Male,South,2023-07-21,Books,421.49
+fd729853,Kelsey Scott,44,Male,East,2023-07-22,Grocery,526.1
+b9e2375f,Jason Evans,26,Male,North,2023-07-23,Electronics,427.32
+e08e05e3,Judith Jackson,54,Male,South,2023-07-24,Home Decor,562.75
+bfe1276b,Rodney Roberts,50,Female,North,2023-07-25,Grocery,646.55
+9c482662,Kristin Esparza,68,Female,West,2023-07-26,Grocery,690.59
+fcafd771,Richard Weber,59,Other,South,2023-07-27,Electronics,555.86
+0d307a7c,Samuel Lewis,61,Other,North,2023-07-28,Clothing,
+9150e055,Michaela Guerrero,41,Female,North,2023-07-29,Books,184.21
+95204bda,Andrew Hill,32,Female,East,2023-07-30,Clothing,251.38
+2cafed08,Daniel Allen,49,Female,North,2023-07-31,Home Decor,827.8
+e21e4cb6,Bridget Chen,49,Female,South,2023-08-01,Grocery,356.4
+00ea834e,Edward Bates,41,Male,South,2023-08-02,Electronics,71.75
+cfc4dbe1,Jason Gamble,58,Male,East,2023-08-03,Electronics,196.1
+80391ba7,Sean Gray,69,Male,South,2023-08-04,Books,262.43
+5b7c80f6,Audrey Mills,66,Female,West,2023-08-05,Clothing,959.46
+c0c5418e,Mr. George Hale,66,Female,South,2023-08-06,Books,594.39
+7f081246,Todd Flynn,69,Male,South,2023-08-07,Grocery,936.09
+960c80cc,Tammy Schroeder,29,Female,North,2023-08-08,Books,596.41
+040536fd,Michelle Neal,56,Female,North,2023-08-09,Electronics,505.39
+c6f0dd91,Tammy Conrad,19,Male,South,2023-08-10,Electronics,348.04
+f9a2389b,Brendan Edwards,20,Male,East,2023-08-11,Home Decor,626.05
+1d38bb97,Maria Lopez,66,Female,North,2023-08-12,Home Decor,182.24
+07f4d7a1,Debbie Brown,54,Female,East,2023-08-13,Grocery,
+5b62f8f2,Michelle Clark,66,Female,South,2023-08-14,Clothing,837.87
+9425b379,Alicia Chan,34,Female,South,2023-08-15,Books,351.65
+b51593c9,Matthew Burke,66,Female,West,2023-08-16,Grocery,955.16
+7d71f294,Samantha Soto,19,Female,North,2023-08-17,Home Decor,
+9c86da5c,Erika Wise,19,Female,South,2023-08-18,Books,682.99
+46973f3d,Tyler Crosby,45,Female,West,2023-08-19,Home Decor,165.67
+c79f2149,Shelia Harper,40,Male,North,2023-08-20,Books,504.32
+60fec3e9,David Frazier,54,Male,South,2023-08-21,Clothing,530.8
+aa60fb7e,John Parker,49,Male,South,2023-08-22,Grocery,270.92
+67f1ab75,Tina Moran,50,Female,North,2023-08-23,Books,125.97
+1ae5a2b2,Denise Payne,18,Female,North,2023-08-24,Electronics,787.89
+a5af1617,Brian Cruz,36,Female,North,2023-08-25,Electronics,165.93
+e3d1709c,Victoria Warner,19,Male,South,2023-08-26,Books,614.58
+fc7f106c,April Hill,61,Male,South,2023-08-27,Books,
+7709e34c,Daniel Castro,43,Male,West,2023-08-28,Books,882.3
+0163c1f1,Katherine Lopez,49,Male,East,2023-08-29,Electronics,313.86
+35aac04c,Mary Roberts,23,Female,North,2023-08-30,Electronics,858.88
+0c74bec3,Christine Hernandez,49,Male,South,2023-08-31,Books,50.32
+8be689df,Lawrence Anderson,21,Male,South,2023-09-01,Home Decor,66.8
+1969560c,Monique Williams,28,Female,North,2023-09-02,Home Decor,622.43
+10f0be0a,George Matthews,34,Male,East,2023-09-03,Clothing,396.56
+bd27dc7f,Jessica Carroll,55,Female,North,2023-09-04,Grocery,417.14
+a83173bf,Stephanie Moore,41,Female,East,2023-09-05,Home Decor,586.22
+77664bf5,Marissa Reilly,22,Male,South,2023-09-06,Electronics,232.19
+32dabb28,Kevin Hurley,69,Female,East,2023-09-07,Home Decor,251.17
+460ae413,Karen Cole,51,Female,West,2023-09-08,Clothing,510.37
+fac17c6a,Christina Bailey,23,Female,South,2023-09-09,Clothing,766.54
+c2cde6ad,Rachel Mosley,39,Male,West,2023-09-10,Grocery,
+868ba38e,Robert Burton,28,Female,North,2023-09-11,Home Decor,332.49
+e56526b9,Christian Richardson,65,Female,North,2023-09-12,Electronics,458.82
+dc2ea98f,Crystal Martinez,33,Male,North,2023-09-13,Electronics,212.13
+fce3e1b1,Michael Rodriguez,50,Male,East,2023-09-14,Books,120.9
+58bf7c5e,Hannah Zuniga,26,Other,South,2023-09-15,Electronics,793.56
+5b8e52fe,Walter Brown,23,Female,North,2023-09-16,Grocery,302.12
+1946323b,Kristen Bowman,33,Male,North,2023-09-17,Grocery,218.88
+62e944cf,Jordan Wade,46,Female,South,2023-09-18,Electronics,707.04
+f4ee94db,Joshua James,20,Male,North,2023-09-19,Electronics,637.15
+9a6f85f7,Karen Martinez,37,Male,West,2023-09-20,Books,651.53
+a37b2d1a,Alexander Rogers,53,Male,South,2023-09-21,Electronics,267.45
+f8712f19,William Wilcox,36,Male,South,2023-09-22,Books,271.01
+9a248e8c,Christopher Stout,43,Male,South,2023-09-23,Books,259.76
+ab2ee792,Joseph Rivera,20,Male,West,2023-09-24,Electronics,215.06
+8dc68ede,Martin Brandt,36,Female,South,2023-09-25,Clothing,672.94
+aadd5e07,Robert Wood,37,Male,West,2023-09-26,Clothing,855.62
+3795c078,Willie Martinez,49,Male,South,2023-09-27,Books,738.1
+69c49d5d,Dr. Jason Montgomery,24,Female,East,2023-09-28,Electronics,802.49
+fbf0f2a2,Lisa Mitchell,69,Male,North,2023-09-29,Clothing,434.56
+bb2ea0f1,Thomas Larsen,58,Female,East,2023-09-30,Electronics,671.37
+cdd1f8b7,Andrew Moyer,50,Male,North,2023-10-01,Electronics,386.52
+9c950ebf,Diane Farrell,57,Male,West,2023-10-02,Electronics,549.23
+213355e5,Mr. Ronald Avila,56,Male,East,2023-10-03,Home Decor,
+ae16e863,Kristin Hernandez,35,Male,South,2023-10-04,Electronics,218.04
+6f707ecb,Richard Hicks,57,Male,North,2023-10-05,Home Decor,417.72
+765e70b5,Jose Hill,18,Male,North,2023-10-06,Books,965.63
+71e48951,Kevin Barnes,28,Male,East,2023-10-07,Clothing,286.15
+108eded8,Eric Martinez,45,Male,West,2023-10-08,Clothing,177.11
+cb109bc5,James Kennedy,42,Male,East,2023-10-09,Clothing,447.65
+80fcb93e,Harold Craig,67,Male,West,2023-10-10,Clothing,800.82
+dfb12378,Julia Page,40,Male,West,2023-10-11,Clothing,603.04
+7c28bcca,Michael Clayton,48,Female,North,2023-10-12,Clothing,696.93
+783a3a0e,Marissa Cherry,47,Female,East,2023-10-13,Clothing,230.21
+d308ac7e,Allison Mclean,59,Male,East,2023-10-14,Books,638.0
+186e47d3,Aaron Welch,52,Female,West,2023-10-15,Electronics,357.33
+a1df20db,Monica Wilson,24,Female,East,2023-10-16,Grocery,842.59
+0446df2a,Jennifer Schmidt,33,Male,South,2023-10-17,Home Decor,647.83
+d6a5f4ce,Nicole Thompson,43,Female,South,2023-10-18,Grocery,238.91
+9197a5b1,Timothy Murphy,65,Female,East,2023-10-19,Grocery,111.39
+6c38d6b3,Megan Griffith,69,Male,East,2023-10-20,Electronics,
+b9db1e51,Daniel Martinez,66,Male,West,2023-10-21,Electronics,402.84
+182111eb,James Peterson,19,Female,South,2023-10-22,Electronics,302.56
+f94bd48b,Jonathan Robertson,18,Female,South,2023-10-23,Clothing,663.79
+5e911109,Alicia Williams,65,Male,North,2023-10-24,Books,524.37
+c6d16011,Michael Melton,29,Male,West,2023-10-25,Clothing,302.72
+e576c274,Patricia Rivera,22,Male,North,2023-10-26,Books,191.78
+95033ab5,David Green,54,Female,South,2023-10-27,Books,
+6bd0e20b,John Carter,49,Female,West,2023-10-28,Grocery,871.43
+a93c1927,George Nichols,26,Male,East,2023-10-29,Grocery,281.3
+565d3fb3,Gabrielle Larsen,58,Male,West,2023-10-30,Books,
+15ca74c2,Angelica Sanford,52,Female,East,2023-10-31,Books,820.15
+26aaf454,Joshua Love,36,Male,East,2023-11-01,Clothing,633.38
+fe7a3e76,Mrs. April Castaneda,65,Male,West,2023-11-02,Clothing,866.59
+829b492c,Justin Anderson,33,Female,East,2023-11-03,Grocery,422.77
+c34f81ab,Patricia Jones,20,Female,North,2023-11-04,Electronics,958.41
+ea2e0917,Mark Mosley,37,Female,South,2023-11-05,Books,176.49
+dfc79721,Tracey Gordon,41,Female,East,2023-11-06,Clothing,147.04
+a2f7b0dd,Makayla Wagner,50,Male,North,2023-11-07,Grocery,675.76
+9937d388,Alan Kirby,41,Male,East,2023-11-08,Clothing,945.69
+400a1ab9,Adam Brown,69,Female,South,2023-11-09,Books,818.44
+9dbbbfe9,Michelle Gomez,28,Male,North,2023-11-10,Books,122.6
+72af9f99,Amy Barnes,66,Male,South,2023-11-11,Home Decor,315.4
+c19e4761,Rachel Davis,25,Male,South,2023-11-12,Electronics,933.8
+9201aee3,Michael Bright,53,Male,North,2023-11-13,Home Decor,290.41
+500630ec,Amber Garza,55,Male,North,2023-11-14,Grocery,792.11
+b9536742,Christopher Reed,57,Male,North,2023-11-15,Clothing,833.88
+2e85730b,William Castillo,37,Male,West,2023-11-16,Grocery,520.68
+67670da8,Christine Miller,52,Male,North,2023-11-17,Books,417.03
+fddfc830,Cody Moody,65,Female,North,2023-11-18,Home Decor,477.62
+565d9f76,Darlene Manning,42,Female,North,2023-11-19,Home Decor,265.62
+cc5efcd1,Wendy Schmidt,52,Female,North,2023-11-20,Home Decor,894.92
+9965c1c2,Autumn Ortiz,42,Female,East,2023-11-21,Grocery,478.09
+e87cf1b6,Todd Davenport,46,Female,West,2023-11-22,Books,888.34
+da8d0b3c,Brian Carroll,35,Male,South,2023-11-23,Clothing,150.41
+6dbaf2fb,Jenny Ross,63,Female,North,2023-11-24,Clothing,988.86
+70a500cc,Megan Thomas,35,Female,East,2023-11-25,Grocery,471.11
+d10de483,Wendy Sweeney,19,Female,East,2023-11-26,Home Decor,95.44
+20c9facf,Anne Clark,52,Male,East,2023-11-27,Electronics,86.12
+f950b290,Daniel Ball,33,Male,South,2023-11-28,Grocery,758.9
+80a0d4d1,Peter Mckee,58,Male,North,2023-11-29,Grocery,676.08
+8b9a4168,Tina Collins,53,Male,West,2023-11-30,Books,812.02
+72b1b7c5,Alan Hernandez,50,Female,West,2023-12-01,Clothing,150.1
+89e01f1c,John Kirk,21,Female,East,2023-12-02,Grocery,83.79
+87d0d420,Jennifer Rodriguez,50,Male,South,2023-12-03,Grocery,533.15
+f86e00e0,Carlos Bates,31,Other,South,2023-12-04,Home Decor,418.22
+084f24fd,Andrew Brooks,38,Female,South,2023-12-05,Home Decor,488.85
+d7921dfd,Derek Taylor,65,Male,West,2023-12-06,Electronics,992.01
+f5994e51,Anna Miller,37,Male,East,2023-12-07,Books,972.21
+7ab537d4,Amy Chapman,25,Male,North,2023-12-08,Electronics,945.2
+07f20d94,Timothy Delacruz,24,Male,West,2023-12-09,Home Decor,794.65
+5f1d2808,Laura Simmons,20,Male,East,2023-12-10,Clothing,387.1
+2a69221d,Madison Valdez,34,Male,East,2023-12-11,Home Decor,441.52
+d4db9c3c,Christian Kelly,50,Male,North,2023-12-12,Books,572.14
+4ff670b0,George Moody,65,Male,North,2023-12-13,Home Decor,839.01
+035dc897,Dakota Valdez,29,Female,North,2023-12-14,Books,115.28
+f29afc41,Vanessa Morales,68,Male,South,2023-12-15,Books,453.08
+010be06c,Mr. Donald Garza,39,Female,North,2023-12-16,Books,128.49
+1476cef1,Jill Farley,39,Male,East,2023-12-17,Books,538.92
+e320e410,Robert Williams,63,Other,North,2023-12-18,Books,903.96
+4d512a3b,Dr. Alexander Sullivan,47,Male,East,2023-12-19,Clothing,793.36
+639841e5,Julia Robinson,55,Male,West,2023-12-20,Electronics,266.45
+b2d31b3a,Andrew Johnson,55,Other,South,2023-12-21,Grocery,977.19
+e756f6df,Jade Horn,62,Female,West,2023-12-22,Electronics,683.98
+9c6a5464,Kristopher Smith,68,Female,West,2023-12-23,Books,59.91
+99cb6c63,Lauren Valdez,25,Male,East,2023-12-24,Clothing,
+65e344c0,Anthony Smith,44,Male,West,2023-12-25,Home Decor,297.68
+37d4bc7f,Ruth Saunders,44,Female,East,2023-12-26,Clothing,115.79
+11ee70cb,Ernest Vazquez,51,Female,North,2023-12-27,Books,961.84
+cb2c515f,Thomas Ramirez,38,Female,North,2023-12-28,Clothing,504.34
+0c7a6c86,Debra Ferrell,47,Female,East,2023-12-29,Clothing,901.02
+bebdf9bd,Keith Johnson Jr.,50,Male,North,2023-12-30,Books,356.1
+ba89ba58,Laura Kennedy,45,Female,South,2023-12-31,Clothing,168.97
+0be7a7a8,Ashley Douglas,64,Male,West,2024-01-01,Grocery,500.62
+9d781c00,Kimberly Washington MD,50,Male,South,2024-01-02,Grocery,158.26
+5f6c3721,Sean Palmer,22,Male,West,2024-01-03,Clothing,511.71
+79d00520,Katelyn Conley,65,Female,North,2024-01-04,Home Decor,924.28
+0cf8e3d0,Brandon Miller,36,Male,South,2024-01-05,Books,544.73
+ba36b7f8,Lisa Gross,21,Male,North,2024-01-06,Grocery,635.67
+b7711cdc,Amy Owen,52,Female,West,2024-01-07,Home Decor,198.81
+ce0c1414,Timothy Todd,66,Male,East,2024-01-08,Clothing,91.55
+8ef026c9,Carlos Hernandez,34,Female,East,2024-01-09,Home Decor,155.27
+ee9c65b0,Jamie Castillo,61,Male,South,2024-01-10,Electronics,618.6
+c5c4358b,Mark Long,45,Female,North,2024-01-11,Grocery,140.26
+679f7a8f,Frank West,47,Female,North,2024-01-12,Clothing,407.19
+2bcc621c,Austin Wright,46,Male,South,2024-01-13,Books,572.59
+7a60278b,Lindsay Hoffman,63,Male,East,2024-01-14,Clothing,419.22
+bc87bb20,Anthony Smith,23,Male,West,2024-01-15,Books,205.5
+b5e9d0f8,Paula Blanchard,52,Male,South,2024-01-16,Clothing,310.1
+3b2a02be,Joshua Henry,58,Other,West,2024-01-17,Home Decor,931.9
+e3d411b0,Stephanie Johnson,54,Male,East,2024-01-18,Home Decor,692.18
+f67099d9,Jennifer Mcbride,41,Female,North,2024-01-19,Home Decor,521.25
+11c03cf9,Todd Shannon,46,Male,East,2024-01-20,Electronics,62.08
+805dc91f,Alice Ward,66,Female,South,2024-01-21,Books,992.79
+00a34fa6,Dustin Howard,63,Female,North,2024-01-22,Home Decor,687.88
+155cde97,Michelle Williams,48,Female,South,2024-01-23,Electronics,351.08
+f5646a1c,Kathleen Carr,52,Male,South,2024-01-24,Books,885.31
+63b71109,Charles Evans,50,Male,East,2024-01-25,Clothing,295.51
+ec198ec1,Tyler Sellers,69,Male,South,2024-01-26,Electronics,566.82
+f7c5a9c3,Jessica Wright,38,Female,East,2024-01-27,Grocery,654.27
+fec4da32,Roberta Paul,49,Female,North,2024-01-28,Electronics,
+48c3b7a3,Michael Johnson,40,Other,East,2024-01-29,Electronics,979.48
+8006d000,Darlene Hamilton,50,Male,North,2024-01-30,Books,760.78
+3b748133,Bruce Powell,20,Female,East,2024-01-31,Clothing,579.92
+f0fef1bd,Theodore Conner,35,Female,West,2024-02-01,Grocery,
+686b44aa,Sean Torres,42,Male,West,2024-02-02,Home Decor,101.17
+f4f0b688,Michael Frazier,59,Male,South,2024-02-03,Home Decor,354.06
+a796e269,Emma Cannon,48,Female,East,2024-02-04,Electronics,765.53
+2bc023c2,Deborah Pruitt,20,Female,East,2024-02-05,Books,305.86
+0952ea8c,Tammy Johnson,57,Female,North,2024-02-06,Books,562.58
+338989ed,John Chandler,63,Male,South,2024-02-07,Home Decor,741.55
+ae2e6cbe,Jack Padilla,41,Female,East,2024-02-08,Grocery,152.55
+a3d0b2db,Tiffany Oliver,67,Male,South,2024-02-09,Clothing,701.03
+9829a411,Erica Smith,49,Male,West,2024-02-10,Grocery,137.28
+98e25c3c,Stephanie Thomas,64,Male,East,2024-02-11,Clothing,966.87
+a1b57047,Heather Hodges,39,Female,East,2024-02-12,Home Decor,513.97
+a2f95890,Cynthia Gill,40,Female,South,2024-02-13,Clothing,193.14
+5d5e1263,Jacob Ruiz,19,Female,East,2024-02-14,Books,375.26
+6141e93b,Dustin Singh,44,Male,South,2024-02-15,Electronics,442.75
+4917f4ee,Kenneth Todd,59,Female,East,2024-02-16,Electronics,770.28
+bfd3f915,Zachary Rodriguez,19,Male,North,2024-02-17,Home Decor,756.25
+24c9f572,Melissa Jones,43,Female,South,2024-02-18,Books,631.34
+42a21569,Lisa Hall,34,Male,East,2024-02-19,Grocery,150.63
+9077bca7,Belinda Barton,57,Male,West,2024-02-20,Books,193.99
+dee9841d,Tony Stephens,50,Male,East,2024-02-21,Electronics,139.07
+3eb9da02,Anthony Johnson,26,Male,West,2024-02-22,Electronics,598.31
+9d0d3c6e,Jessica Foster,60,Female,West,2024-02-23,Books,883.28
+65a29d38,Micheal Watson,65,Female,North,2024-02-24,Books,462.11
+6442d235,Ryan Anderson,56,Male,South,2024-02-25,Electronics,202.81
+90641175,Michael Smith,46,Female,East,2024-02-26,Grocery,580.14
+8dd23402,Stephanie Krueger,59,Male,North,2024-02-27,Home Decor,821.16
+02bd3ef5,Angela Burnett,43,Female,East,2024-02-28,Home Decor,754.63
+fd92bca0,James Mueller,52,Female,West,2024-02-29,Books,887.38
+7172bf68,Amber Williams,67,Female,South,2024-03-01,Home Decor,314.01
+93781b82,Robert Jones Jr.,42,Male,East,2024-03-02,Electronics,
+eff982cb,Ryan Johnson,41,Female,East,2024-03-03,Electronics,885.83
+6771a127,Tonya Nguyen,30,Female,West,2024-03-04,Books,674.68
+d0091dd9,Michael Chapman,24,Male,East,2024-03-05,Books,345.38
+41e8c81d,Michael Matthews,53,Male,East,2024-03-06,Books,755.23
+8510b66f,Heather Hahn,62,Female,West,2024-03-07,Grocery,824.36
+4f1f852f,Frederick Mathews,37,Female,North,2024-03-08,Home Decor,634.23
+36ff7259,John Campbell,18,Female,West,2024-03-09,Books,703.49
+6084db1f,Joseph Lee,25,Female,North,2024-03-10,Clothing,406.5
+aa896a7f,Adam Harrington,63,Female,South,2024-03-11,Clothing,561.76
+441b724f,Mason Fowler,33,Male,North,2024-03-12,Electronics,547.95
+d63947e8,Monica Farmer,31,Male,North,2024-03-13,Home Decor,855.65
+4adab3de,Erin Potts,29,Male,South,2024-03-14,Books,847.97
+aaed1ae0,Clarence Kelly,68,Female,North,2024-03-15,Clothing,841.05
+5b7ee958,Paul Smith,40,Male,West,2024-03-16,Home Decor,60.48
+6cf3ee41,Jose Holden,32,Female,North,2024-03-17,Electronics,762.07
+fef842e8,Courtney Tanner,45,Female,South,2024-03-18,Grocery,770.74
+5ca97582,Rebecca Hansen,51,Female,West,2024-03-19,Home Decor,
+875258d9,Kayla Dorsey,19,Male,South,2024-03-20,Home Decor,768.45
+3f413c82,William Lewis,49,Female,South,2024-03-21,Grocery,849.87
+3c47dbd0,Erika Miller,40,Male,East,2024-03-22,Home Decor,
+4d559827,Amanda Simmons,39,Female,East,2024-03-23,Electronics,526.95
+b59ff650,Amy Larson,68,Male,South,2024-03-24,Electronics,168.48
+5b87fe3c,Kevin Keith,42,Male,South,2024-03-25,Grocery,416.11
+eca81e00,Craig Newton,39,Female,South,2024-03-26,Books,661.2
+e3e5bc3a,Mary Deleon,39,Male,East,2024-03-27,Clothing,791.38
+24ccc8c4,Ashley Huff,66,Male,East,2024-03-28,Books,256.35
+dc3ce6e8,Allison Martin,69,Female,North,2024-03-29,Home Decor,180.93
+0a6bd205,Sarah Hernandez,59,Female,North,2024-03-30,Clothing,679.89
+7882558b,Randy Young,23,Female,South,2024-03-31,Grocery,51.79
+6230e8d5,Jermaine Walls,32,Female,West,2024-04-01,Grocery,219.45
+7a74a2d7,Curtis Smith,60,Female,West,2024-04-02,Clothing,
+228b58a8,Justin Church,54,Male,East,2024-04-03,Electronics,208.54
+800b5e8e,Jeremy Doyle,50,Male,East,2024-04-04,Clothing,222.25
+018f0334,Tim Reeves,25,Male,East,2024-04-05,Home Decor,418.29
+a6fa513e,Alexis Mcclain PhD,61,Female,South,2024-04-06,Electronics,432.21
+dd3e5a58,Jason Blake,61,Female,West,2024-04-07,Grocery,880.55
+0544ed17,Betty Marshall,22,Male,North,2024-04-08,Clothing,534.6
+ba382849,Jennifer Simon,56,Male,South,2024-04-09,Books,737.23
+e3203ca5,Kenneth Harper,21,Female,North,2024-04-10,Books,148.93
+d7707603,Damon Henderson,23,Male,North,2024-04-11,Home Decor,264.17
+b9585197,Lori Brewer,62,Female,South,2024-04-12,Books,717.8
+a8fe3a36,Johnny Williams,49,Female,North,2024-04-13,Clothing,100.16
+4c6c4c3e,Morgan Lee,69,Female,West,2024-04-14,Clothing,512.27
+4bd3f89d,Colleen Miller,47,Male,North,2024-04-15,Books,619.4
+7bb0c70d,Alex Mitchell,64,Female,West,2024-04-16,Clothing,622.04
+2764e68b,Jasmine Perez,52,Female,West,2024-04-17,Home Decor,71.79
+41a755c3,Eric Flores,57,Female,West,2024-04-18,Electronics,356.0
+68c66285,Stephanie Turner,69,Female,East,2024-04-19,Home Decor,654.67
+9d664434,Kimberly Rivera,33,Female,North,2024-04-20,Home Decor,191.55
+7a981d14,Joshua Malone,30,Female,South,2024-04-21,Clothing,710.64
+69e43838,Alicia Newman,67,Male,South,2024-04-22,Electronics,758.63
+c0c5dfd3,Carl Macias,59,Female,North,2024-04-23,Clothing,982.87
+678e8699,Melissa Rush,47,Female,East,2024-04-24,Grocery,249.35
+556b8ac2,Linda Fisher,36,Male,East,2024-04-25,Clothing,833.87
+051e8c93,Jenna Adams,34,Female,West,2024-04-26,Clothing,544.28
+25a9fb0a,Travis Torres,36,Female,North,2024-04-27,Clothing,404.79
+0a49f4c5,Jeremy Wilson,45,Female,North,2024-04-28,Electronics,166.26
+1690f9de,Scott Wright PhD,43,Male,South,2024-04-29,Clothing,748.73
+5fe76000,Richard Cisneros,54,Male,North,2024-04-30,Electronics,
+a1fb766d,Jasmin Campos,43,Other,East,2024-05-01,Books,402.85
+be67da2c,Joshua Gonzales,40,Female,North,2024-05-02,Grocery,109.42
+e185f210,Anna Sullivan,26,Male,South,2024-05-03,Electronics,811.3
+bfadd9a0,Miss Jennifer Wood,29,Female,West,2024-05-04,Books,
+7b72b56b,Larry Stephenson,18,Female,South,2024-05-05,Electronics,746.94
+80637140,Melissa Estrada,18,Female,South,2024-05-06,Electronics,334.47
+d8993b3e,Aaron Allen,64,Female,West,2024-05-07,Grocery,214.81
+d316a2ca,Johnny James,51,Male,South,2024-05-08,Home Decor,655.68
+54bd01c1,Jacob Kidd,49,Male,South,2024-05-09,Home Decor,521.36
+04cffd02,Kayla Evans,65,Male,North,2024-05-10,Electronics,219.34
+190676b7,Jacqueline Grant,42,Female,North,2024-05-11,Clothing,701.62
+d45b6fb9,James Smith,57,Male,West,2024-05-12,Books,991.57
+022e492f,Jessica Moore,62,Male,North,2024-05-13,Clothing,759.86
+04e6af7f,Michael Frank,18,Male,North,2024-05-14,Clothing,752.99
+46973f3d,Tyler Crosby,45,Female,West,2023-08-19,Home Decor,165.67
+95204bda,Andrew Hill,32,Female,East,2023-07-30,Clothing,251.38
+b9536742,Christopher Reed,57,Male,North,2023-11-15,Clothing,833.88
+544c26eb,Jill Mcdonald,38,Female,North,2023-03-30,Home Decor,539.42
+f1b1b5e3,Jessica Deleon,41,Male,West,2023-05-11,Home Decor,370.37
+5b7ee958,Paul Smith,40,Male,West,2024-03-16,Home Decor,60.48
+0952ea8c,Tammy Johnson,57,Female,North,2024-02-06,Books,562.58
+fd92bca0,James Mueller,52,Female,West,2024-02-29,Books,887.38
+a6cb5017,Patrick Valdez,20,Female,South,2023-05-24,Books,116.44
+040536fd,Michelle Neal,56,Female,North,2023-08-09,Electronics,505.39
+1476cef1,Jill Farley,39,Male,East,2023-12-17,Books,538.92
+c52f0b02,Andrea Wilson,58,Female,South,2023-04-08,Electronics,292.86
+99cb6c63,Lauren Valdez,25,Male,East,2023-12-24,Clothing,
+d6a5f4ce,Nicole Thompson,43,Female,South,2023-10-18,Grocery,238.91
+5ca97582,Rebecca Hansen,51,Female,West,2024-03-19,Home Decor,
+3c47dbd0,Erika Miller,40,Male,East,2024-03-22,Home Decor,
+c6d16011,Michael Melton,29,Male,West,2023-10-25,Clothing,302.72
+a3d0b2db,Tiffany Oliver,67,Male,South,2024-02-09,Clothing,701.03
+07ce41aa,Dr. Kelly Morrison,57,Female,West,2023-03-29,Clothing,656.09
+0be7a7a8,Ashley Douglas,64,Male,West,2024-01-01,Grocery,500.62
+3f63e96e,Crystal Travis,69,Female,North,2023-02-09,Clothing,153.47
+e5201f4c,Sara Edwards,64,Female,West,2023-02-27,Grocery,505.22
+b7711cdc,Amy Owen,52,Female,West,2024-01-07,Home Decor,198.81
+80fcb93e,Harold Craig,67,Male,West,2023-10-10,Clothing,800.82
+f29afc41,Vanessa Morales,68,Male,South,2023-12-15,Books,453.08
