@@ -8,8 +8,8 @@ Welcome to the **DataScience-AI-ML** repository! This collection showcases vario
 
 Experience the projects in action:
 
-- 💘 [LoveMatch Predictor (Streamlit)](https://huggingface.co/spaces/Usurper0/Lovematch) — Predict compatibility based on personality traits.
-- 🚢 [Titanic Survival Predictor (Streamlit)](https://huggingface.co/spaces/Usurper0/Titanic) — Estimate survival chances based on passenger data.
+- 💘 [LoveMatch Predictor (Huggingface)](https://huggingface.co/spaces/Usurper0/Lovematch) — Predict compatibility based on personality traits.
+- 🚢 [Titanic Survival Predictor (Huggingface)](https://huggingface.co/spaces/Usurper0/Titanic) — Estimate survival chances based on passenger data.
 
 ---
 
